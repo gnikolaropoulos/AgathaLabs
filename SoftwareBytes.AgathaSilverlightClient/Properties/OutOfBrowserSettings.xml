@@ -1,0 +1,7 @@
+<OutOfBrowserSettings ShortName="SoftwareBytes.AgathaSilverlightClient Application" EnableGPUAcceleration="False" ShowInstallMenuItem="True">
+  <OutOfBrowserSettings.Blurb>SoftwareBytes.AgathaSilverlightClient Application on your desktop; at home, at work or on the go.</OutOfBrowserSettings.Blurb>
+  <OutOfBrowserSettings.WindowSettings>
+    <WindowSettings Title="SoftwareBytes.AgathaSilverlightClient Application" />
+  </OutOfBrowserSettings.WindowSettings>
+  <OutOfBrowserSettings.Icons />
+</OutOfBrowserSettings>
